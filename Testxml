@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="SauceDemo">
+    <classes>
+           <class name="com.suite1.SauceDemo"/>
+     </classes>
+      </test>
+            <test name="DemoBlaze">
+    <classes>
+         <class name="com.suite2.Demoblaze"/>
+    </classes>
+  </test> 
+</suite> <!-- Suite -->

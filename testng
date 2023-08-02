@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <groups>
+          <run>
+               <include name="Strong_ties"/>
+          </run>
+    </groups>
+    <classes>
+      <class name="com.com.test.GuruTestDemo"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
